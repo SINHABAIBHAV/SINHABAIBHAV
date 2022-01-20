@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SINHABAIBHAV
 - 👀 I’m interested in testing
 - 🌱 I’m currently learning Automation testing
-- 📫 How to reach me through LinkedIn
+- 📫 You can reach me through LinkedIn
     https://www.linkedin.com/in/baibhav-sinha-a831271a3/
 
 <!---
